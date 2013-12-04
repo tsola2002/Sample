@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bootstrap Carousel</title>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+                <div id="art" class="carousel slide" data-ride="carousel">
+                            <!-- Indicators -->
+                            <ol class="carousel-indicators">
+                                <li data-target="#art" data-slide-to="0" class="active"></li>
+                                <li data-target="#art" data-slide-to="1"></li>
+                                <li data-target="#art" data-slide-to="2"></li>
+                            </ol>
+
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                    <img src="img/orange.jpg" alt="bulldog">
+
+                                    <div class="carousel-caption">
+                                        <h4>
+                                            Orange Background
+                                        </h4>
+                                    </div><!--  End of .carousel-caption  -->
+                                </div><!--  End of .item1  -->
+
+                                <div class="item">
+                                    <img src="img/blue.jpg" alt="blue">
+
+                                    <div class="carousel-caption">
+                                        <h4>
+                                            Blue Background
+                                        </h4>
+                                    </div><!--  End of .carousel-caption  -->
+                                </div><!--  End of .item2  -->
+
+                                <div class="item">
+                                    <img src="img/matte.jpg" alt="matte">
+
+                                    <div class="carousel-caption">
+                                        <h4>
+                                            Matte Background
+                                        </h4>
+                                    </div><!--  End of .carousel-caption  -->
+                                </div><!--  End of .item2  -->
+
+
+                            </div><!--  End of .carousel-inner  -->
+
+                            <!-- Controls -->
+                            <a class="left carousel-control" href="#art" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                            </a>
+                            <a class="right carousel-control" href="#art" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                            </a>
+                        </div>
+    </div>
+
+
+</body>
+</html>

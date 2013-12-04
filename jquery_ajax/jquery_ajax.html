@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Jquery Ajax</title>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    <script  type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript">
+        $("document").ready(function() {
+            getData();
+        });
+
+        function getData() {
+            $.ajax({
+                //data to retrieve information from
+                url: "testdata.txt",
+
+                //kind of HTTP_REQUEST
+                type: "GET",
+
+                //kind of data to be return
+                dataType: "text",
+
+                //function to run on completion
+                success: successFn,
+
+                //function to run on error
+                error: errorFn,
+
+                //function to run regardless
+                complete: function (xhr, status) {
+                    console.log("The request is complete!");
+                }
+            });
+        }
+
+        function successFn(result){
+            console.log("Setting result");
+            $("#content").append(result);
+        }
+
+        function errorFn(xhr, status, strErr){
+            console.log("There was an error!");
+        }
+
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="jumbotron">
+        <h1>Ajaxified Buttons</h1>
+    </div>
+
+    <p id="content"></p>
+
+
+</div>
+</body>
+</html>

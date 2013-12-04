@@ -2,17 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d069e1-bc87-4cd0-a993-6ca10ea45346" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/02_01_grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/js/respond.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap3_demo/index.html" afterPath="$PROJECT_DIR$/bootstrap3_demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/animals.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/blue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/bulldog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/chase.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/cockatiel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/dog1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/dog2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/dog3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/dog4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/goldfish.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/gsd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/jumbotron.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/kitten.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/matte.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/orange.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/sanders.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/sick-puppy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/img/winthrop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/02_02_row_cell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/06_05_carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery_ajax/jquery_ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery_ajax/testdata.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery_ajax/testxmldata.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sample.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385751609805" ignored="false" />
-    <file path="/dummy.xml" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385382696241" ignored="false" />
+    <file path="/dummy.xml" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1386144425626" ignored="false" />
     <file path="/main.css" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385382825369" ignored="false" />
-    <file path="/Dummy.txt" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385748303969" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1386143951885" ignored="false" />
+    <file path="/jquery_ajax.html" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385932727918" ignored="false" />
+    <file path="/index.php" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385923625614" ignored="false" />
+    <file path="/testdata.txt" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385929976719" ignored="false" />
+    <file path="/testxmldata.xml" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385930063973" ignored="false" />
+    <file path="/06_05_carousel.html" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1386148173092" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +58,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap3_demo/index.html">
+      <file leaf-file-name="06_05_carousel.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap3_demo/06_05_carousel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="30" selection-start="192" selection-end="192" vertical-scroll-proportion="-3.9230769">
+            <state line="62" column="30" selection-start="3083" selection-end="3083" vertical-scroll-proportion="0.9414802">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02_01_grid.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="02_01_grid.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap3_demo/02_01_grid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="4" column="74" selection-start="72" selection-end="143" vertical-scroll-proportion="-2.6153846">
               <folding />
             </state>
           </provider>
@@ -72,14 +98,20 @@
         <option value="$PROJECT_DIR$/h5bp-template/index.html" />
         <option value="$PROJECT_DIR$/bootstrap3_demo/js/respond.js" />
         <option value="$PROJECT_DIR$/bootstrap3_demo/index.html" />
+        <option value="$PROJECT_DIR$/jquery_ajax/index.php" />
+        <option value="$PROJECT_DIR$/jquery_ajax/testdata.txt" />
+        <option value="$PROJECT_DIR$/jquery_ajax/testxmldata.xml" />
+        <option value="$PROJECT_DIR$/jquery_ajax/jquery_ajax.html" />
+        <option value="$PROJECT_DIR$/bootstrap3_demo/06_05_carousel.html" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="y" value="1" />
-    <option name="width" value="785" />
-    <option name="height" value="736" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -107,6 +139,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -135,18 +168,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="jquery_ajax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="bootstrap3_demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="editing.templates" />
+    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -175,6 +226,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Sample\bootstrap3_demo\img" />
       <recent name="C:\xampp\htdocs\Sample\bootstrap3_demo" />
       <recent name="C:\xampp\htdocs\Sample" />
     </key>
@@ -184,6 +236,9 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -221,11 +276,15 @@
       <created>1385384841471</created>
       <updated>1385384841471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="experimenting with bootstrap grid systems">
+      <created>1385753002099</created>
+      <updated>1385753002099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="1" width="785" height="736" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -233,7 +292,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31120333" sideWeight="0.9948186" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1993517" sideWeight="0.9776248" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -291,7 +350,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap3 demo project added" />
+    <option name="LAST_COMMIT_MESSAGE" value="experimenting with bootstrap grid systems" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -306,52 +365,94 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="bootstrap3 demo project added" />
+    <MESSAGE value="experimenting with bootstrap grid systems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/index.html">
+    <entry file="file://$PROJECT_DIR$/jquery_ajax/testdata.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery_ajax/jquery_ajax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="3" selection-start="1555" selection-end="1555" vertical-scroll-proportion="1.5862069" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery_ajax/testxmldata.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="88" selection-end="88" vertical-scroll-proportion="0.09090909">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/bulldog.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5bp-template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="999" selection-end="999" vertical-scroll-proportion="0.88726515" />
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/kitten.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5bp-template/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="0" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.53069305" />
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/sick-puppy.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/js/respond.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="337" column="9" selection-start="12579" selection-end="12579" vertical-scroll-proportion="0.958">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/winthrop.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="30" selection-start="192" selection-end="192" vertical-scroll-proportion="-3.9230769">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/dog2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/chase.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/cockatiel.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/animals.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/sanders.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/jumbotron.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap3_demo/02_01_grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="4" column="74" selection-start="72" selection-end="143" vertical-scroll-proportion="-2.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/06_05_carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="30" selection-start="3083" selection-end="3083" vertical-scroll-proportion="0.9414802">
           <folding />
         </state>
       </provider>
