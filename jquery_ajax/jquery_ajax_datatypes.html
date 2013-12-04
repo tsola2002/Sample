@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Jquery Ajax</title>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    <script  type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript">
+        $("document").ready(function() {
+            //getData();
+            //this code calls the below function
+            getXMLData();
+        });
+
+        function getXMLData(){
+            //jquery get function to get xml data
+            $.get("testxmldata.xml", function (result) {
+                //result is the parse xml instance object
+                //manipulatios done using DOM
+                var title =  result.getElementsByTagName("title")[0];
+                var name =  result.getElementsByTagName("name")[0];
+                var val = title.firstChild.nodeValue + " by " + name.firstChild.nodeValue;
+                $("#content").append(val);
+            });
+        }
+
+        function getData() {
+            //shorthand version of the jquery ajax get http request
+           // $.get("testdata.txt", successFn)
+
+            //another shortcut helper
+            $("#content").load('testdata.txt');
+        }
+
+        function successFn(result){
+            console.log("Setting result");
+            $("#content").append(result);
+        }
+
+        function errorFn(xhr, status, strErr){
+            console.log("There was an error!");
+        }
+
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="jumbotron">
+        <h1>Ajax Helpers</h1>
+    </div>
+
+    <p id="content"></p>
+
+
+</div>
+</body>
+</html>
