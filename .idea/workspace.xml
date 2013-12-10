@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d069e1-bc87-4cd0-a993-6ca10ea45346" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery_ajax/jquery_ajax_datatypes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap3_demo/02_03_offset.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sample.iws" />
@@ -10,7 +10,7 @@
     <file path="/index.html" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385751609805" ignored="false" />
     <file path="/dummy.xml" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1386144425626" ignored="false" />
     <file path="/main.css" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385382825369" ignored="false" />
-    <file path="/Dummy.txt" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1386149434554" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1386701580523" ignored="false" />
     <file path="/jquery_ajax.html" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385932727918" ignored="false" />
     <file path="/index.php" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385923625614" ignored="false" />
     <file path="/testdata.txt" changelist="d1d069e1-bc87-4cd0-a993-6ca10ea45346" time="1385929976719" ignored="false" />
@@ -40,34 +40,45 @@
       <file leaf-file-name="jquery_ajax.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jquery_ajax/jquery_ajax.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="0" selection-start="1552" selection-end="1552" vertical-scroll-proportion="-16.384615">
+            <state line="56" column="0" selection-start="1552" selection-end="1552" vertical-scroll-proportion="-28.23077">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery_ajax_helpers.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery_ajax/jquery_ajax_helpers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="9" selection-start="749" selection-end="749" vertical-scroll-proportion="-8.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery_ajax_datatypes.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="jquery_ajax_datatypes.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jquery_ajax/jquery_ajax_datatypes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="45" selection-start="827" selection-end="827" vertical-scroll-proportion="0.5450902">
+            <state line="19" column="45" selection-start="827" selection-end="827" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testxmldata.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery_ajax/testxmldata.xml">
+      <file leaf-file-name="02_03.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Up and Running with Bootstrap 3/Exercise Files/Ex_Files_UaR_Bootstp3/Exercise Files/Chapter 2/02_03/02_03.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="47" column="29" selection-start="300" selection-end="2891" vertical-scroll-proportion="-7.8461537">
+              <folding>
+                <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_02_row_cell.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap3_demo/02_02_row_cell.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_03_offset.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap3_demo/02_03_offset.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="29" selection-start="2881" selection-end="2881" vertical-scroll-proportion="1.5948104">
               <folding />
             </state>
           </provider>
@@ -102,13 +113,14 @@
         <option value="$PROJECT_DIR$/bootstrap3_demo/06_05_carousel.html" />
         <option value="$PROJECT_DIR$/jquery_ajax/jquery_ajax_helpers.html" />
         <option value="$PROJECT_DIR$/jquery_ajax/jquery_ajax_datatypes.html" />
+        <option value="$PROJECT_DIR$/bootstrap3_demo/02_03_offset.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-74" />
-    <option name="y" value="-12" />
+    <option name="x" value="108" />
+    <option name="y" value="-19" />
     <option name="width" value="785" />
     <option name="height" value="740" />
   </component>
@@ -138,7 +150,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -167,12 +178,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_ajax" />
+              <option name="myItemId" value="bootstrap3_demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,8 +193,8 @@
     <property name="options.lastSelected" value="editing.templates" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -211,9 +223,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Sample\bootstrap3_demo" />
       <recent name="C:\xampp\htdocs\Sample\jquery_ajax" />
       <recent name="C:\xampp\htdocs\Sample\bootstrap3_demo\img" />
-      <recent name="C:\xampp\htdocs\Sample\bootstrap3_demo" />
       <recent name="C:\xampp\htdocs\Sample" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -274,20 +286,23 @@
       <created>1386149438885</created>
       <updated>1386149438885</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="working with jquery datatypes">
+      <created>1386151239864</created>
+      <updated>1386151239864</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-74" y="-12" width="785" height="740" extended-state="0" />
+    <frame x="108" y="-19" width="785" height="740" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34024897" sideWeight="0.9776248" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34993085" sideWeight="0.9776248" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -297,6 +312,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -344,7 +360,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="jquery ajax helpers functionality implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="working with jquery datatypes" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -362,41 +378,12 @@
     <MESSAGE value="experimenting with bootstrap grid systems" />
     <MESSAGE value="bootstrap carousel added to site" />
     <MESSAGE value="jquery ajax helpers functionality implemented" />
+    <MESSAGE value="working with jquery datatypes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/kitten.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/sick-puppy.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/winthrop.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/dog2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/chase.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap3_demo/img/cockatiel.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -419,32 +406,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap3_demo/06_05_carousel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="26" selection-start="456" selection-end="456" vertical-scroll-proportion="0.32297063">
-          <folding>
-            <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="11" column="26" selection-start="456" selection-end="456" vertical-scroll-proportion="0.32297063" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap3_demo/02_01_grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="74" selection-start="72" selection-end="143" vertical-scroll-proportion="0.12014134">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery_ajax/jquery_ajax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="1552" selection-end="1552" vertical-scroll-proportion="-16.384615">
-          <folding />
-        </state>
+        <state line="4" column="74" selection-start="72" selection-end="143" vertical-scroll-proportion="0.12014134" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery_ajax/jquery_ajax_helpers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="9" selection-start="749" selection-end="749" vertical-scroll-proportion="-8.5">
-          <folding />
-        </state>
+        <state line="19" column="9" selection-start="749" selection-end="749" vertical-scroll-proportion="0.425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery_ajax/testxmldata.xml">
@@ -454,9 +426,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jquery_ajax/jquery_ajax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="1552" selection-end="1552" vertical-scroll-proportion="-28.23077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5bp-template/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5bp-template/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5bp-template/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jquery_ajax/jquery_ajax_datatypes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="45" selection-start="827" selection-end="827" vertical-scroll-proportion="0.5450902">
+        <state line="19" column="45" selection-start="827" selection-end="827" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/02_02_row_cell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Up and Running with Bootstrap 3/Exercise Files/Ex_Files_UaR_Bootstp3/Exercise Files/Chapter 2/02_03/02_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="29" selection-start="300" selection-end="2891" vertical-scroll-proportion="-7.8461537">
+          <folding>
+            <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap3_demo/02_03_offset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="29" selection-start="2881" selection-end="2881" vertical-scroll-proportion="1.5948104">
           <folding />
         </state>
       </provider>
